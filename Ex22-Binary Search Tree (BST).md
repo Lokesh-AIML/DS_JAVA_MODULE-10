@@ -25,8 +25,8 @@ To design and implement java program that constructs a Binary Search Tree (BST) 
 ```java
 /*
 Program to constructs a Binary Search Tree (BST) using given Book IDs 
-Developed by: ROGITH GANESH.R
-Register Number: 212223100046
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 
 import java.util.*;
