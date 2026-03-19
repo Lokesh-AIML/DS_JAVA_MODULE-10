@@ -17,8 +17,8 @@ To design and implement a java program that helps an electric vehicle (EV) find 
 ```java
 /*
 Program to find the Fastest Route to a Charging Station using Dijkstra’s Algorithm
-Developed by: ROGITH GANESH.R
-Register Number: 212223100046
+Developed by: LOKESHWARAN S
+Register Number: 212224240080
 */
 
 import java.util.*;
